@@ -2,11 +2,11 @@
 
 This is **Kaan Tek**, a Senior Computer Science student at Bilkent University
 
-- 🔭 I’m interested in the fields of Machine Learning, Deep Learning, Artificial Intelligence, and Data Science
+- 🔭 Interested in the fields of Machine Learning, Deep Learning, Artificial Intelligence, and Data Science
 
-- 🌱 I’m currently working on Machine Learning related projects
+- 🌱 Currently working on Machine Learning related projects
 
-- 🤝 I’m also experienced in backend development
+- 🤝 Also experienced in backend development
 
 - 📫 How to reach me: **kaan.tek@ug.bilkent.edu.tr**
 
