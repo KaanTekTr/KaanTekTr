@@ -1,6 +1,6 @@
 <h1 align="left">Hello There 👋 </h1>
 
-This is **Kaan Tek**, a Senior Computer Science student at Bilkent University
+This is **Kaan Tek**, a senior Computer Science student at Bilkent University
 
 - 🔭 Interested in the fields of Machine Learning, Deep Learning, Artificial Intelligence, and Data Science
 
