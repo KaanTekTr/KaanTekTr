@@ -2,7 +2,7 @@
 
 This is **Kaan Tek**, a fresh Computer Science graduate from Bilkent University
 
-- 🔭 Interested in the fields of Backend and Full Stack Development, and Data Science
+- 🔭 Interested in Backend and Full Stack Development, and Data Science
 
 - 📫 How to reach me: **kaantek06@gmail.com**
 
