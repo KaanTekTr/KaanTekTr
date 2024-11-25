@@ -13,6 +13,6 @@ This is **Kaan Tek**, a fresh Computer Science graduate from Bilkent University
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,pytorch,spring,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,nodejs,mysql,aws)](https://skillicons.dev)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaanTekTr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
